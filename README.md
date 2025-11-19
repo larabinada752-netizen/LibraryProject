@@ -81,7 +81,7 @@ Here is an example of the program running in the terminal:
 
 This screenshot shows the `books` table inside phpMyAdmin:
 
-![phpMyAdmin Books Table](images/phpmyadmin_books.png)
+![phpMyAdmin Books Table](https://github.com/larabinada752-netizen/LibraryProject/blob/c27d6e87cf3d14cea5bfd8fe3b4b267eb5654552/phpmyadmin_books.png.png)
 
 
 
