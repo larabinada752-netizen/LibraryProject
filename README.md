@@ -69,6 +69,23 @@ python library.py
 5. Exit
 5 Follow the instructions to manage books in the library.
 
+## Running the Program (Screenshot)
+
+Here is an example of the program running in the terminal:
+### terminal_run1
+![Program Running](https://github.com/larabinada752-netizen/LibraryProject/blob/c1f0d334f47a0e8a353686fd0e6b67a2b3d4439d/terminal_run1.png.png)
+### terminal_run2
+![Program Running](https://github.com/larabinada752-netizen/LibraryProject/blob/c1f0d334f47a0e8a353686fd0e6b67a2b3d4439d/terminal_run2.png.png)
+
+## Database Preview (phpMyAdmin)
+
+This screenshot shows the `books` table inside phpMyAdmin:
+
+![phpMyAdmin Books Table](images/phpmyadmin_books.png)
+
+
+
+
 ## Notes
 Use View Books to find the Book ID before updating or deleting.
 
